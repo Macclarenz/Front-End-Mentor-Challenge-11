@@ -98,6 +98,13 @@ body {
     margin-bottom: .5em;
 }
 
+.bill-container h1 {
+    font-weight: 700;
+    font-size: 18px;
+    color: var(--Darker-grayish-cyan);
+    margin-bottom: .5em;
+}
+
 .bill-error-msg,
 .nop-error-msg {
     color: var(--error-color) !important;
